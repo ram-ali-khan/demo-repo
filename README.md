@@ -1,3 +1,3 @@
 # demo-repo
 
-author - nitin dhaka
+author - nitin kuma dhaka 
